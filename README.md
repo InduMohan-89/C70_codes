@@ -19,6 +19,8 @@ style:{height:130, borderTopWidth:0, backgroundColor: '#5653d4'},
             
             
 Styles in TransactionScreen.js
+
+
  lowerContainer:{flex:0.5,alignItems:'center'},
   textInputContainer:{borderWidth:2, borderRadius:10, 
     flexDirection:"row", 
